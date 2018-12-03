@@ -18,6 +18,8 @@ Probably even more minor inconsistencies can be encountered, but I decided this 
 
 <br/>
 <b>How to...</b>
+<br/>
 This is a script to c/p in your SQL editor and just click "run".
+<br/>
 Doing this in a separate schema (instead of schema "public") is recomended.
 To do so, uncomment the first two lines of the script.
